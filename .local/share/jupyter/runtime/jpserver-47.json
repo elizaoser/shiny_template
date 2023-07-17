@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/elizaoser-shiny_template-yhkwo3y7/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 47,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "Ta-Ei3-qTeiJJykNQSzuuQ",
+  "url": "http://jupyter-elizaoser-2dshiny-5ftemplate-2dyhkwo3y7:8888/binder/jupyter/user/elizaoser-shiny_template-yhkwo3y7/",
+  "version": "1.23.6"
+}
